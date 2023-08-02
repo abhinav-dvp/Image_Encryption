@@ -80,7 +80,6 @@ An image encryption node-js cli
                                   Encrypted image: encryptedImageName.png
                                   Key: keyFile.txt
 
- Give it a star on github:  https://github.com/theninza/imcrypt
 ```
 
 ### For decrypting an image encryptedImage.png with its key key.txt to decryptedImage.png
