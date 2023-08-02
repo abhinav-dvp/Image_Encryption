@@ -103,8 +103,6 @@ An image encryption node-js cli
 ✔  Success  Image decrypted successfully
 
                         Decrypted Image: decryptedImage.png
-
- Give it a star on github:  https://github.com/theninza/imcrypt
 ```
 
 ## Limitations
